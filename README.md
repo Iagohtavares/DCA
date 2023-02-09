@@ -154,6 +154,7 @@ Some of the products have been renamed, there are no changes regarding this in t
 ## Preparation
 
 - [250 Practice Questions](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-the-dca-exam-84f3b9e8f5ce)
+- [Play with Docker](https://labs.play-with-docker.com/)
 
 ## Contributors
 
